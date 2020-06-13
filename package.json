@@ -1,0 +1,19 @@
+{
+  "name": "app-data-collection",
+  "version": "1.0.0",
+  "description": "Data Collection Node.js scraper to get data from Google Play[Data Collection and scraper to Mobile Applications on Google PlayStore and Apple App Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrapper",
+    "nodejs",
+    "thesis"
+  ],
+  "author": "Deepali Futane",
+  "license": "MIT",
+  "devDependencies": {
+    "google-play-scraper": "^7.1.2"
+  }
+}
